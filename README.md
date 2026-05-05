@@ -4,6 +4,7 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28%2B-brightgreen)](https://streamlit.io/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104%2B-teal)](https://fastapi.tiangolo.com/)
 [![XGBoost](https://img.shields.io/badge/XGBoost-ROC%20AUC%2085%25%2B-orange)](https://xgboost.readthedocs.io/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Production Ready](https://img.shields.io/badge/Production-Ready-brightgreen)]
 
 **AI-Powered Churn Prediction** | **Business ROI Optimized** | **Web App + API**
@@ -47,6 +48,7 @@ uvicorn api:app --reload
 ---
 
 ## 📋 Dataset
+
 - **Source**: Telco Customer Churn (Kaggle-inspired, 7043 customers)
 - **Target**: Churn (27% positive)
 - **Features**: 21 incl. tenure, charges, contract, demographics
@@ -98,6 +100,7 @@ CMD ["streamlit", "run", "app.py", "--server.port=80"]
 - **AWS/GCP**: Model serving ready
 
 ### 🧪 Testing
+
 ```bash
 # Verify model loads
 python train_model.py  # Generates model.pkl
@@ -116,13 +119,14 @@ curl -X POST "http://localhost:8000/predict" ...
 
 ```
 Churn-new/
-├── data/                 # Telco dataset
-├── app.py               # Streamlit UI
+├── LICENSE             # MIT License
+├── data/               # Telco dataset
+├── app.py              # Streamlit UI
 ├── api.py              # FastAPI
 ├── train_model.py      # Training pipeline
 ├── requirements.txt    # Deps
 ├── churn_model.pkl     # Trained model
-├── README.md          # 👈 You are here
+├── README.md           # 👈 You are here
 └── ...
 ```
 
