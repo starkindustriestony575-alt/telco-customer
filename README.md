@@ -11,12 +11,13 @@
 
 ---
 
-## 🚀🌐 Live Demo**: [![Streamlit](https://img.shields.io/badge/Live_Demo-Streamlit-brightgreen)](https://telco-customer-uwrk6ervjzasb6wckfjnpq.streamlit.app/)
+**🌐 Live Demo**: [![Streamlit](https://img.shields.io/badge/Live_Demo-Streamlit-brightgreen)](https://telco-customer-uwrk6ervjzasb6wckfjnpq.streamlit.app/)
 
 ```bash
 # 4. Or API (http://localhost:8000)
 uvicorn api:app --reload
-``
+```
+
 
 ---
 
