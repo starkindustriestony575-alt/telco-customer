@@ -11,27 +11,12 @@
 
 ---
 
-## 🚀 Quickstart (2 minutes)
-
-```bash
-# 1. Clone & Install
-pip install -r requirements.txt
-
-# 2. Train Model (generates churn_model.pkl)
-python train_model.py
-
-# 3. Launch Streamlit UI
-streamlit run app.py
-```
-
-[Open in Browser](http://localhost:8501)
-
-**🌐 Live Demo**: [![Streamlit](https://img.shields.io/badge/Live_Demo-Streamlit-brightgreen)](https://telco-customer-uwrk6ervjzasb6wckfjnpq.streamlit.app/)
+## 🚀🌐 Live Demo**: [![Streamlit](https://img.shields.io/badge/Live_Demo-Streamlit-brightgreen)](https://telco-customer-uwrk6ervjzasb6wckfjnpq.streamlit.app/)
 
 ```bash
 # 4. Or API (http://localhost:8000)
 uvicorn api:app --reload
-```
+``
 
 ---
 
@@ -153,12 +138,6 @@ curl -X POST "http://localhost:8000/predict" \
 ```
 
 **Docs**: <http://localhost:8000/docs> (Swagger UI)
-
----
-
-## 📸 Demo
-<!-- Add screenshot here -->
-![Streamlit Demo](demo.gif)
 
 ---
 
