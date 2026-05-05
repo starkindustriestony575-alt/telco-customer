@@ -18,16 +18,15 @@
 uvicorn api:app --reload
 ```
 
-
 ---
 
 ## 📈 Model Performance
 
-| Model      | ROC-AUC | Precision | Recall | F1    |
-|------------|---------|-----------|--------|-------|
-| **XGBoost** | **0.85+** | 0.82     | 0.79  | 0.80 |
-| RandomForest | 0.83   | 0.80     | 0.77  | 0.78 |
-| Logistic   | 0.81   | 0.78     | 0.75  | 0.76 |
+| Model         | ROC-AUC | Precision | Recall | F1    |
+|:-------------:|:-------:|:---------:|:------:|:-----:|
+| **XGBoost**   | **0.85+** | 0.82      | 0.79   | 0.80  |
+| RandomForest  | 0.83    | 0.80      | 0.77   | 0.78  |
+| Logistic      | 0.81    | 0.78      | 0.75   | 0.76  |
 
 **Best Model Auto-Selected** & Saved
 
@@ -44,7 +43,7 @@ uvicorn api:app --reload
 
 ## 💰 Business Impact (Example on 1000 customers)
 
-```
+```text
 True Positives Saved: 150 customers × $1000 ROI × 30% success = $45,000
 False Positives Cost: 50 × $20 = $1,000
 NET PROFIT: $44,000
@@ -138,7 +137,7 @@ curl -X POST "http://localhost:8000/predict" \
 }
 ```
 
-**Docs**: <http://localhost:8000/docs> (Swagger UI)
+**Docs**: [Swagger UI](http://localhost:8000/docs)
 
 ---
 
@@ -155,5 +154,10 @@ curl -X POST "http://localhost:8000/predict" \
 ---
 
 Questions? [Open an Issue](https://github.com/issues/new)
+
+## 📄 Author & License
+
+**Author**: stark (stark@domain.com) - Churn Predictor Project  
+**License**: [MIT License](LICENSE) © 2024
 
 ![Footer Banner](https://img.shields.io/badge/built%20with-blackboxai-powered%20🤖-purple)
