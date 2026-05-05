@@ -157,7 +157,7 @@ Questions? [Open an Issue](https://github.com/issues/new)
 
 ## 📄 Author & License
 
-**Author**: stark (stark@domain.com) - Churn Predictor Project  
+**Author**: stark (https://github.com/starkindustriestony575-alt) - Churn Predictor Project  
 **License**: [MIT License](LICENSE) © 2024
 
 ![Footer Banner](https://img.shields.io/badge/built%20with-blackboxai-powered%20🤖-purple)
