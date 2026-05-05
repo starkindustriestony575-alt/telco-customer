@@ -1,9 +1,11 @@
-churn_model.pkl
-feature_names.pkl
+# Model files - COMMIT FOR DEPLOY
+#churn_model.pkl
+#feature_names.pkl
 __pycache__/
 *.pyc
 .venv/
 env/
 .DS_Store
 *.log
+
 
