@@ -157,19 +157,19 @@ Questions? [Open an Issue](https://github.com/issues/new)
 
 ---
 
+## 📝 License
+
+This project is licensed under the **MIT License**.
+
+**License**: [MIT License](LICENSE) © 2024
+
+---
+
 ## 👤 Author
 
 **Sarvagya Gupta**  
 *(Little Stark)*
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/starkindustriestony575-alt) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:starkgupta575@gmail.com)  
-
----
-
-## 📝 License
-
-This project is licensed under the **MIT License**.
-
-**License**: [MIT License](LICENSE) © 2024
 
 ---
