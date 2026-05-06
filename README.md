@@ -155,9 +155,22 @@ curl -X POST "http://localhost:8000/predict" \
 
 Questions? [Open an Issue](https://github.com/issues/new)
 
-## 📄 Author & License
+---
 
-**Author**: Sarvagya Gupta (https://github.com/starkindustriestony575-alt) - Churn Predictor Project  
+## 👤 Author
+
+**Sarvagya Gupta**  
+*(Little Stark)*
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/starkindustriestony575-alt) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:starkgupta575@gmail.com)  
+
+---
+
+## 📝 License
+
+This project is licensed under the **MIT License**.
+
 **License**: [MIT License](LICENSE) © 2024
 
+---
 ![Footer Banner](https://img.shields.io/badge/built%20with-blackboxai-powered%20🤖-purple)
