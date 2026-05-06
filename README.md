@@ -173,4 +173,3 @@ This project is licensed under the **MIT License**.
 **License**: [MIT License](LICENSE) © 2024
 
 ---
-![Footer Banner](https://img.shields.io/badge/built%20with-blackboxai-powered%20🤖-purple)
